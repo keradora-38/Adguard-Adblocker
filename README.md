@@ -204,4 +204,4 @@ This repository serves as the official landing page for Adguard AdBlocker. The s
 **Get the most recent version of Adguard AdBlocker today!**
 
 ---
-**Last updated:** 2026-11-13 05:44:41 UTC
+**Last updated:** 2026-11-13 14:12:54 UTC
